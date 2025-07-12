@@ -1,8 +1,6 @@
 # Sentiment Analytics using Python
 
-![Cover Slide](<img width="1120" height="674" alt="cover" src="https://github.com/user-attachments/assets/0d1ff4db-5ddb-4b5c-8f9b-7cade9027a45" />
-)![Uploading cover.png…]()
-
+![Cover Slide](cover.png)
 
 ## Video Overview
 
