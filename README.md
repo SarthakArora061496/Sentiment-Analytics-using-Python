@@ -13,7 +13,7 @@ In this video, I, **Sarthak Arora**, walk through a presentation I created to an
 
 You'll also see a quick data summary covering the number of records, unique products and companies, and the percentage of complaints that were closed.
 
-![Data Insight Slide](cover2.png)
+[![Cover Slide](cover2.png)](https://www.loom.com/share/3bd0fad270004b1299afe312d9058812)
 
-[Watch the video](https://www.loom.com/share/3bd0fad270004b1299afe312d9058812) to learn how sentiment analysis can help address customer concerns and strengthen a company’s reputation.
+Watch the video to learn how sentiment analysis can help address customer concerns and strengthen a company’s reputation.
 
