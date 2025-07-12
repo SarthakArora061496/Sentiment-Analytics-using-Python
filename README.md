@@ -1,6 +1,6 @@
 # Sentiment Analytics using Python
 
-![Cover Slide](/Users/sarthak/Desktop/PythonCode/NLP/cover.png)
+![Cover Slide](/Users/sarthak/Desktop/PythonCode/NLP/cover)
 
 ## Video Overview
 
