@@ -16,6 +16,4 @@ You'll also see a quick data summary covering:
 - Unique products and companies
 - Percentage of complaints that were closed
 
-[![Watch the Video](cover2.png)](https://www.loom.com/share/3bd0fad270004b1299afe312d9058812)
-
 Click the image above or [watch the video here](https://www.loom.com/share/3bd0fad270004b1299afe312d9058812) to learn how sentiment analysis can help address customer concerns and strengthen a company’s reputation.
